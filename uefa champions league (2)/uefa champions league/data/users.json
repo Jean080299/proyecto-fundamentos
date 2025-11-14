@@ -1,0 +1,33 @@
+{
+  "luna": {
+    "email": "ltareasb@gmail.com",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "created_at": "2025-11-12T15:33:54.522039",
+    "last_login": "2025-11-13T09:33:51.138267"
+  },
+  "demo": {
+    "email": "demo@example.com",
+    "password_hash": "d2b000ce0875cad8615dd8cf34f788635c959a0ce2b8a977e22caab745380b06",
+    "created_at": "2025-11-12T15:34:53.036999",
+    "last_login": null
+  },
+  "admin": {
+    "email": "admin@example.com",
+    "password_hash": "ac0e7d037817094e9e0b4441f9bae3209d67b02fa484917065f71b16109a1a78",
+    "created_at": "2025-11-12T15:34:53.038663",
+    "last_login": null
+  },
+  "danna": {
+    "email": "danna@gmail.com",
+    "password_hash": "f88a2d302d392fd7f279cf9de30a8047d85ba54992e07af8cfbb4432b18f1323",
+    "created_at": "2025-11-13T09:29:11.704457",
+    "last_login": null
+  },
+  "jean": {
+    "email": "jean@gmail.com",
+    "password_hash": "ddc36ac20b94a01dfa72ec735df5912b2acdb7cc03b4cf1fc8184972da4a13fd",
+    "created_at": "2025-11-13T09:34:46.829234",
+    "last_login": "2025-11-13T09:35:18.119473",
+    "is_admin": true
+  }
+}
